@@ -4,7 +4,7 @@
 #OBJECTIVE: The objective of this program is to
 #For target device...
 #1. Measure the photodetector for target device
-#2. Transition the film
+#2. Transition the film from clear to dark or from dark to clear
 #3. Measure the photodetector
 #4. Store the data to file
 #5. Repeat
